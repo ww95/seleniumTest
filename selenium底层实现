@@ -1,0 +1,7 @@
+利用selenium底层实现的时候 先安装request库
+
+1.首先用java命令打开selenium服务器
+ java -jar selenium名称版本(还有路径)
+ 在浏览器中输入127.0.0.1:4444(或者在后面加入wd/uhb)sselenium服务
+ 点击console进入selenium session的创建以及删除，然后自动打开相应浏览器
+ 之后创建sselenium服务器session
